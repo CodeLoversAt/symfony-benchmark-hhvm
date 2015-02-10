@@ -1,4 +1,4 @@
-FROM codelovers/hhvm-composer-mongo
+FROM codelovers/hhvm-mongo
 
 MAINTAINER Daniel Holzmann <daniel@codelovers.at>
 
